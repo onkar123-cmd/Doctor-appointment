@@ -12,7 +12,7 @@ const Contact = () => {
           <div className='flex flex-col justify-center items-start gap-10'>
             <p className='font-semibold text-lg text-gray-600'>OUR CLINIC</p>
             <p className='text-gray-700'>Vivekananda More (Beside LIC Building) <br/> Kaliyaganj, Uttar Dinajpur</p>
-            <p className='text-gray-700'>Mob: (+91) 9339152936<br /> Email: aritrakundu864@gmail.com</p>
+            <p className='text-gray-700'>Mob: (+91) 8918942477<br /> Email: aritrakundu864@gmail.com</p>
 
           </div>
         </div>
